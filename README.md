@@ -14,4 +14,4 @@ The program is written by Chen Qichao. You can redistribute or modify the progra
 
 ## Any question about this project, please feel free to contact me
 mail: mailboxchen@foxmail.com <br>
-Copyright (C) 2015 - 2018  Tongji University 
+Copyright (C) 2015 - 2018  Chen Qichao 
